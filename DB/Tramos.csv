@@ -1,0 +1,10 @@
+ID,CrossroadStart,CrossroadEnd,DirStart,DirEnd,Capacity,NumRoads,MustDir
+Calle Rector Marin Ocete-1,root,C1,NA,N,125,2,NA
+Calle Rector Marin Ocete-2,C1,C2,S,W,168,2,NA
+Calle DR.Jaime Garcia Royo,root,C1,NA,W,180,1,NA
+Calle DR.Severo Ochoa-2 NS,root,C2,NA,N,135,2,NA
+Calle DR.Severo Ochoa-2 SN,C2,leaf,N,NA,135,1,NA
+Calle DR.Severo Ochoa-3,C2,leaf,N,NA,135,2,NA
+Calle Manuel Gomez Moreno,C2,leaf,E,NA,88,1,NA
+Calle DR.Severo Ochoa-1 NS,C2,leaf,S,NA,150,2,NA
+Calle DR.Severo Ochoa-1 SN,root,C2,NA,S,150,2,NA

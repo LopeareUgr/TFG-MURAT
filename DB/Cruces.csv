@@ -1,0 +1,6 @@
+ID,State,N,S,E,W,Time
+C2,1,V,V,,R,20
+C2,2,R,R,,V,10
+C2,3,V,R,,R,15
+C1,1,R,,,V,20
+C1,2,V,,,R,25

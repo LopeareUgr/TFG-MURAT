@@ -1,0 +1,6 @@
+ID	State	N	S	E	W
+C3	1	V	V		R
+C3	2	R	R		V
+C3	3	V	R		R
+C4	1	R			V
+C4	2	V			R
